@@ -1,0 +1,42 @@
+body{
+
+background-color: 	#6B8E23;
+font-family: 'Amatic SC', cursive;
+}
+h1{
+	color: black;
+	text-align: center;
+	font-size: 60px;
+
+}
+
+h2{
+	text-align: center;
+	background-color: #3D2808;
+	size: 50px 100px;
+}
+h3{
+	font-size: 45px;
+	font: black;
+}
+
+.zene{
+	border-radius: 15%;
+	text-align: left;
+}
+
+p{
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
+h5{
+	text-align: right;
+	font-size: 30px;
+	margin-right: 300px;
+}
+
+#egyedispanid:hover {color: red;
+	cursor: pointer;
+}
+
